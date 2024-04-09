@@ -1,0 +1,33 @@
+body{
+	background-color: darkgray;
+	color: #00FF00;
+
+}
+
+h1{
+	color: #490505;
+	text-shadow:0 0 2px darkred;
+	font-family: arial;
+}
+
+h2{
+	color: #490505;
+	text-shadow:0 0 2px darkred;
+	font-family: arial;
+}
+
+h3{
+	color: #490505;
+	text-shadow:0 0 2px darkred;
+	font-family: arial;
+}
+
+p{
+	color: #490505;
+	text-shadow:0 0 2px darkred;
+	font-family: arial;
+}
+
+a:visited{
+	color: #490505;
+}
