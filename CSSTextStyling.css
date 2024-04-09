@@ -1,30 +1,30 @@
 body{
-	background-color: darkgray;
-	color: #00FF00;
+	background-color: darkgray; /* background for the entire page*/
+	color: darkgray;
 
 }
 
 h1{
-	color: #490505;
-	text-shadow:0 0 2px darkred;
+	color: #490505; /*dark red color for h1*/
+	text-shadow:0 0 2px darkred; /*dark red color for shadow on h1*/
 	font-family: arial;
 }
 
 h2{
-	color: #490505;
-	text-shadow:0 0 2px darkred;
+	color: #490505; /*dark red color for h2*/
+	text-shadow:0 0 2px darkred; /*dark red color for shadow on h2*/
 	font-family: arial;
 }
 
 h3{
-	color: #490505;
-	text-shadow:0 0 2px darkred;
+	color: #490505; /*dark red color for h3*/
+	text-shadow:0 0 2px darkred; /*dark red color for shadow on h3*/
 	font-family: arial;
 }
 
 p{
-	color: #490505;
-	text-shadow:0 0 2px darkred;
+	color: #490505; /*dark red color for p*/
+	text-shadow:0 0 2px darkred; /*dark red color for shadow on p*/
 	font-family: arial;
 }
 
